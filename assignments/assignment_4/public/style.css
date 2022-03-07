@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(183, 202, 194);
+}
+.null-entry{
+    color: rgb(116, 116, 8);
+}
+
+.promoted-entry{
+    color: rgb(58, 173, 58);
+}
+
+.demoted-entry{
+    color: rgb(241, 10, 10);
+
+}
+.button {
+    padding: 10px 15px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: black;
+    border: none;
+    border-radius: 10px;
+  }
+
+ 
+  .infoFom{   
+      margin-top: 90px;
+      display: flex;
+      justify-content: center;
+  }
+  label{
+      font: 20px;
+  }
+  input{
+      padding: 6px;
+  }
+  a{
+    text-decoration: none;
+  }
